@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="exit">Exit</string>
+    <string name="testing_this_should_change_text_in_login">It does :) test test test</string>
+</resources>
